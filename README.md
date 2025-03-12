@@ -1,6 +1,4 @@
-Movies Ap
-
-p
+Movies App
 
 Bu proje, React kullanılarak geliştirilen bir film keşif uygulamasıdır. Kullanıcılar The Movie Database (TMDb) API'sini kullanarak film arayabilir, film detaylarını görüntüleyebilir ve seçtikleri filmleri listeleyebilirler.
 
@@ -108,6 +106,7 @@ Eğer projeyle ilgili sorularınız veya önerileriniz varsa, benimle LinkedIn �
 PROGRAMIN İÇİNDEN EKRAN GÖRÜNTÜSÜ
 
 <img width="1678" alt="Ekran Resmi 2025-03-13 01 24 24" src="https://github.com/user-attachments/assets/f54720da-0a47-4a9a-9eab-16f8c6610816" />
-<img width="1680" alt="Ekran Resmi 2025-03-13 01 26 52" src="https://github.com/user-attachments/assets/44bdd882-eec0-4ecd-8e37-288fea40e320" />
-<img width="1680" alt="Ekran Resmi 2025-03-13 01 25 50" src="https://github.com/user-attachments/assets/4c2ffceb-b962-444a-89c5-464e24cd49e5" />
+<img width="1680" alt="Ekran Resmi 2025-03-13 01 33 30" src="https://github.com/user-attachments/assets/12b608c2-6e0c-40e1-9bb8-f83a6f12f9b3" />
+<img width="1680" alt="Ekran Resmi 2025-03-13 01 35 00" src="https://github.com/user-attachments/assets/303df3bc-fbf1-4002-a0fa-d5e4ca2ffc8f" />
+
 
